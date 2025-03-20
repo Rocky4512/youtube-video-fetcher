@@ -13,6 +13,10 @@ This project fetches and displays YouTube videos based on a search query using t
 - **HTML**: Structure the webpage.
 - **CSS**: Styling for video cards and responsiveness.
 - **JavaScript (ES6+)**: Fetch API, DOM Manipulation.
+## Deployment Link 
+https://youtube-video-fetcher.vercel.app/
+## Repository URl
+https://github.com/Rocky4512/youtube-video-fetcher
 
 ## Installation & Usage 📥
 1. Clone the repository:
